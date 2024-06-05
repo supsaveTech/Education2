@@ -430,11 +430,11 @@ jQuery(document).ready(function($){
 		$('.dt-sc-subtitle-parallax').each(function(){
 			$(this).on('inview', function (event, visible) {
 				if(visible === true) {
-					$(this).parallax("50%", 0.3);
+					$(this).parallax("50%", 2.5);
 				}
 			});
 		});
-	}
+	} 
 
 	if($('.side-nav-container').length) {
 
