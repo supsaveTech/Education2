@@ -221,11 +221,11 @@
 	--------------------------------------------------------------*/
 
 	/*----*****---- << Default >> --****--*/
-	.woo-type14 ul.products li.product:hover .product-details, .woo-type14 ul.products li.product .product-details h5:before, .woo-type14 ul.products li.product:hover .product-details h5:after { background-color:#624dd6; }
+	.woo-type14 ul.products li.product:hover .product-details, .woo-type14 ul.products li.product .product-details h5:before, .woo-type14 ul.products li.product:hover .product-details h5:after { background-color:#503174; }
 	
-	.woo-type14 ul.products li.product:hover .product-details h5:after { border-color:#624dd6; }
+	.woo-type14 ul.products li.product:hover .product-details h5:after { border-color:#503174; }
 	
-	.woo-type14 ul.products li.product .product-details, .woo-type14 ul.products li.product .product-details h5:after { -webkit-box-shadow: 0 0 0 2px #624dd6 inset; -moz-box-shadow: 0 0 0 2px #624dd6 inset; -ms-box-shadow: 0 0 0 2px #624dd6 inset; -o-box-shadow: 0 0 0 2px #624dd6 inset; box-shadow: 0 0 0 2px #624dd6 inset; }
+	.woo-type14 ul.products li.product .product-details, .woo-type14 ul.products li.product .product-details h5:after { -webkit-box-shadow: 0 0 0 2px #503174 inset; -moz-box-shadow: 0 0 0 2px #503174 inset; -ms-box-shadow: 0 0 0 2px #503174 inset; -o-box-shadow: 0 0 0 2px #503174 inset; box-shadow: 0 0 0 2px #503174 inset; }
 	
 	/*----*****---- << Dark >> --****--*/
 	.woo-type14 ul.products li.product .product-thumb a.add_to_cart_button:hover, .woo-type14 ul.products li.product .product-thumb a.button.product_type_simple:hover, .woo-type14 ul.products li.product .product-thumb a.button.product_type_variable:hover, .woo-type14 ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover, .woo-type14 ul.products li.product .product-thumb a.add_to_wishlist:hover, .woo-type14 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover, .woo-type14 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover { background-color:#532b99; }

@@ -82,7 +82,7 @@
 	.dt-sc-counter.type4.cyan .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.cyan:hover .dt-sc-couter-icon-holder { background:#00bcd4; }
 	.dt-sc-counter.type4.darkgolden .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.darkgolden:hover .dt-sc-couter-icon-holder { background:#b48b3c; }
 	.dt-sc-counter.type4.deeporange .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.deeporange:hover .dt-sc-couter-icon-holder { background:#ff5722; }
-	.dt-sc-counter.type4.deeppurple .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.deeppurple:hover .dt-sc-couter-icon-holder { background:#673ab7; }
+	.dt-sc-counter.type4.deeppurple .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.deeppurple:hover .dt-sc-couter-icon-holder { background:#503174; }
 	.dt-sc-counter.type4.green .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.green:hover .dt-sc-couter-icon-holder { background:#6ca04a; }
 	.dt-sc-counter.type4.lime .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.lime:hover .dt-sc-couter-icon-holder { background:#cddc39; }
 	.dt-sc-counter.type4.magenta .dt-sc-couter-icon-holder .icon-wrapper, .dt-sc-counter.type4.magenta:hover .dt-sc-couter-icon-holder { background:#cb506d; }
@@ -144,11 +144,11 @@
 	1.4 - Skin Colors
 	--------------------------------------------------------------*/
 	
-	.dt-sc-counter.type3:hover .icon-wrapper, .dt-sc-counter.type1 .icon-wrapper:before, .dt-sc-counter.type2 .dt-sc-couter-icon-holder, .dt-sc-counter.type5:hover:after, .dt-sc-counter.type6 h4:before, .dt-sc-counter.type6:hover .dt-sc-couter-icon-holder:before, .dt-sc-counter.type3.diamond-square .dt-sc-couter-icon-holder .icon-wrapper:before, .dt-sc-counter.type4:hover .dt-sc-couter-icon-holder { background:#624dd6; } 
+	.dt-sc-counter.type3:hover .icon-wrapper, .dt-sc-counter.type1 .icon-wrapper:before, .dt-sc-counter.type2 .dt-sc-couter-icon-holder, .dt-sc-counter.type5:hover:after, .dt-sc-counter.type6 h4:before, .dt-sc-counter.type6:hover .dt-sc-couter-icon-holder:before, .dt-sc-counter.type3.diamond-square .dt-sc-couter-icon-holder .icon-wrapper:before, .dt-sc-counter.type4:hover .dt-sc-couter-icon-holder { background:#503174; } 
 	
-	.dt-sc-counter.type3.diamond-square h4, .dt-sc-counter.type6:hover h4 { color:#624dd6; }
+	.dt-sc-counter.type3.diamond-square h4, .dt-sc-counter.type6:hover h4 { color:#503174; }
 	
-	.dt-sc-counter.type3.diamond-square, .dt-sc-counter.type5:hover:before, .dt-sc-counter.type5:hover:after, .dt-sc-counter.type6, .dt-sc-counter.type6 .dt-sc-couter-icon-holder:before, .dt-sc-counter.type3 .icon-wrapper:before { border-color:#624dd6; }
+	.dt-sc-counter.type3.diamond-square, .dt-sc-counter.type5:hover:before, .dt-sc-counter.type5:hover:after, .dt-sc-counter.type6, .dt-sc-counter.type6 .dt-sc-couter-icon-holder:before, .dt-sc-counter.type3 .icon-wrapper:before { border-color:#503174; }
 	
 	/* Dark Color */
 	.dt-sc-counter.type2:hover .dt-sc-couter-icon-holder { background:#532b99; }

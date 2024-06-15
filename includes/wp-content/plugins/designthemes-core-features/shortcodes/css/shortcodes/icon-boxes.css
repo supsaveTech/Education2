@@ -1731,7 +1731,7 @@
 .dt-sc-icon-box.type11 .dt-sc-button:before,
 .dt-sc-icon-box.type11 .dt-sc-button:after,
 .dt-sc-icon-box.type11 .dt-sc-button:hover {
-    background: #624dd6;
+    background: #503174;
 }
 
 .dt-sc-icon-box.type1 .icon-wrapper span,
@@ -1756,7 +1756,7 @@
 .dt-sc-icon-box.type9 .icon-wrapper span,
 .dt-sc-icon-box.type6 .icon-content h4,
 .dt-sc-icon-box.type11 .icon-wrapper span {
-    color: #624dd6;
+    color: #503174;
 }
 
 .dt-sc-icon-box.type5.no-icon .icon-content h4,
@@ -1770,7 +1770,7 @@
 .dt-sc-icon-box.type3:hover,
 .dt-sc-icon-box.type7:hover,
 .dt-sc-icon-box.type6:hover {
-    border-color: #624dd6;
+    border-color: #503174;
 }
 
 

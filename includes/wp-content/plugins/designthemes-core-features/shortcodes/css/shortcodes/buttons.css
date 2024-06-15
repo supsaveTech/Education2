@@ -174,7 +174,7 @@
 	.dt-sc-colored-big-buttons.cyan { border-color:#00bcd4; }
 	.dt-sc-colored-big-buttons.darkgolden { border-color:#b48b3c; }
 	.dt-sc-colored-big-buttons.deeporange { border-color:#ff5722; }
-	.dt-sc-colored-big-buttons.deeppurple { border-color:#673ab7; }
+	.dt-sc-colored-big-buttons.deeppurple { border-color:#503174; }
 	.dt-sc-colored-big-buttons.lime { border-color:#6ca04a; }
 	.dt-sc-colored-big-buttons.magenta { border-color:#cb506d; }
 	.dt-sc-colored-big-buttons.pink { border-color:#fd6ca3; }
@@ -196,7 +196,7 @@
 	.dt-sc-colored-big-buttons.cyan span, .dt-sc-colored-big-buttons.cyan:hover { background:#00bcd4; }
 	.dt-sc-colored-big-buttons.darkgolden span, .dt-sc-colored-big-buttons.darkgolden:hover { background:#b48b3c; }
 	.dt-sc-colored-big-buttons.deeporange span, .dt-sc-colored-big-buttons.deeporange:hover { background:#ff5722; }
-	.dt-sc-colored-big-buttons.deeppurple span, .dt-sc-colored-big-buttons.deeppurple:hover { background:#673ab7; }
+	.dt-sc-colored-big-buttons.deeppurple span, .dt-sc-colored-big-buttons.deeppurple:hover { background:#503174; }
 	.dt-sc-colored-big-buttons.lime span, .dt-sc-colored-big-buttons.lime:hover { background:#6ca04a; }
 	.dt-sc-colored-big-buttons.magenta span, .dt-sc-colored-big-buttons.magenta:hover { background:#cb506d; }
 	.dt-sc-colored-big-buttons.pink span, .dt-sc-colored-big-buttons.pink:hover { background:#fd6ca3; }
@@ -286,10 +286,10 @@
 	.dt-sc-button.deeporange.fully-rounded-border, .dt-sc-button.deeporange.rounded-border:hover, .dt-sc-button.deeporange.bordered:hover, .dt-sc-button.deeporange.fully-rounded-border:hover { border-color:#ff5722; }		
 	
 	/* DeepPurple */
-	.dt-sc-button.deeppurple, .dt-sc-button.deeppurple.filled, .dt-sc-button.deeppurple.rounded-border:hover, .dt-sc-button.deeppurple.bordered:hover, .dt-sc-button.deeppurple.fully-rounded-border:hover { background:#673ab7; }
+	.dt-sc-button.deeppurple, .dt-sc-button.deeppurple.filled, .dt-sc-button.deeppurple.rounded-border:hover, .dt-sc-button.deeppurple.bordered:hover, .dt-sc-button.deeppurple.fully-rounded-border:hover { background:#503174; }
 	.dt-sc-button.deeppurple:hover, .dt-sc-button.deeppurple.filled:hover, .dt-sc-button.deeppurple.with-icon.icon-right.type1:hover { background:#532b99; }	
-	.dt-sc-button.deeppurple.rounded-border, .dt-sc-button.deeppurple.bordered, .dt-sc-button.deeppurple.fully-rounded-border { color:#673ab7; }	
-	.dt-sc-button.deeppurple.fully-rounded-border, .dt-sc-button.deeppurple.rounded-border:hover, .dt-sc-button.deeppurple.bordered:hover, .dt-sc-button.deeppurple.fully-rounded-border:hover { border-color:#673ab7; }		
+	.dt-sc-button.deeppurple.rounded-border, .dt-sc-button.deeppurple.bordered, .dt-sc-button.deeppurple.fully-rounded-border { color:#503174; }	
+	.dt-sc-button.deeppurple.fully-rounded-border, .dt-sc-button.deeppurple.rounded-border:hover, .dt-sc-button.deeppurple.bordered:hover, .dt-sc-button.deeppurple.fully-rounded-border:hover { border-color:#503174; }		
 	
 	/* Green */
 	.dt-sc-button.green, .dt-sc-button.green.filled, .dt-sc-button.green.rounded-border:hover, .dt-sc-button.green.bordered:hover, .dt-sc-button.green.fully-rounded-border:hover { background:#d2ed9e; }
@@ -525,13 +525,13 @@
 	1.4 - Skin Colors
 	--------------------------------------------------------------*/
 	
-	.dt-sc-button.filled, .dt-sc-button:hover, .dt-sc-button.rounded-border:hover, .dt-sc-button.bordered:hover, .dt-sc-button.fully-rounded-border:hover, .dt-sc-colored-big-buttons:hover, .dt-sc-colored-big-buttons span { background:#624dd6; }
+	.dt-sc-button.filled, .dt-sc-button:hover, .dt-sc-button.rounded-border:hover, .dt-sc-button.bordered:hover, .dt-sc-button.fully-rounded-border:hover, .dt-sc-colored-big-buttons:hover, .dt-sc-colored-big-buttons span { background:#503174; }
 	
-	.dt-sc-button.rounded-border.black:hover, .dt-sc-button.bordered.black:hover, .dt-sc-button.bordered:hover, .dt-sc-button.rounded-border:hover, .dt-sc-colored-big-buttons, .dt-sc-button.fully-rounded-border, .dt-sc-button.fully-rounded-border:hover { border-color:#624dd6; }
+	.dt-sc-button.rounded-border.black:hover, .dt-sc-button.bordered.black:hover, .dt-sc-button.bordered:hover, .dt-sc-button.rounded-border:hover, .dt-sc-colored-big-buttons, .dt-sc-button.fully-rounded-border, .dt-sc-button.fully-rounded-border:hover { border-color:#503174; }
 	
 	.dt-sc-dark-bg.skin-color .dt-sc-button.fully-rounded-border:hover, 
 	.skin-highlight .dt-sc-button.rounded-border:hover, .skin-highlight .dt-sc-button.bordered:hover,
-	.dt-sc-button.with-shadow.white, .dt-sc-button.fully-rounded-border, .dt-sc-button.rounded-border, .dt-sc-button.bordered, /* Kids */ .dt-sc-button.with_no_bg { color:#624dd6; }
+	.dt-sc-button.with-shadow.white, .dt-sc-button.fully-rounded-border, .dt-sc-button.rounded-border, .dt-sc-button.bordered, /* Kids */ .dt-sc-button.with_no_bg { color:#503174; }
 
 	/* Dark Color */
 	.dt-sc-button.with-icon.icon-right.type1:hover, .dt-sc-button.filled:hover, /* Kids */ .dt-sc-button.filled.with-icon.type4:after { background:#532b99; }

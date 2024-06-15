@@ -1597,7 +1597,7 @@ input[type="checkbox"]+label {
 }
 
 .mfp-content .dt-inline-modal>h4 {
-    background: #624dd6;
+    background: #503174;
 }
 
 .mfp-content .dt-inline-modal>h4,
@@ -1818,7 +1818,7 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-    color: #624dd6;
+    color: #503174;
 }
 
 th,
@@ -1832,12 +1832,12 @@ input[type="reset"],
 .page-link a:hover,
 .post-edit-link:hover,
 .vc_inline-link:hover {
-    background: #624dd6;
+    background: #503174;
 }
 
 .page-link>span,
 .page-link a:hover {
-    border-color: #624dd6;
+    border-color: #503174;
 }
 
 
@@ -1850,7 +1850,7 @@ input[type="reset"]:hover {
 }
 
 .dt-sc-up-arrow:before {
-    border-bottom-color: #624dd6;
+    border-bottom-color: #503174;
 }
 
 button[disabled=disabled],

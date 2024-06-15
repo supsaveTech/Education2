@@ -69,8 +69,8 @@
 	blockquote.type2.deeporange cite::before, blockquote.type4.deeporange { background-color: #ff5722; }	
 	
 	/* DeepPurple */	
-	blockquote.type1.deeppurple q, blockquote.type3.deeppurple { color: #673ab7;border-color: #673ab7; }
-	blockquote.type2.deeppurple cite::before, blockquote.type4.deeppurple { background-color: #673ab7; }	
+	blockquote.type1.deeppurple q, blockquote.type3.deeppurple { color: #503174;border-color: #503174; }
+	blockquote.type2.deeppurple cite::before, blockquote.type4.deeppurple { background-color: #503174; }	
 	
 	/* Green */	
 	blockquote.type1.green q, blockquote.type3.green { color: #60ae0d;border-color: #60ae0d; }

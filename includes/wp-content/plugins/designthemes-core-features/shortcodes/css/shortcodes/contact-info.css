@@ -98,10 +98,10 @@
 	.dt-sc-contact-info.type5.deeporange:hover { background-color:#ff5722; }
 	.dt-sc-contact-info.type5.deeporange:hover .dt-sc-contact-icon span { color:#ff5722; }
 	
-	.dt-sc-contact-info.type5.deeppurple .dt-sc-contact-icon { background:#673ab7; }
+	.dt-sc-contact-info.type5.deeppurple .dt-sc-contact-icon { background:#503174; }
 	.dt-sc-contact-info.type5.deeppurple .dt-sc-contact-icon, .dt-sc-contact-info.type5.deeppurple .dt-sc-contact-icon:before, .dt-sc-contact-info.type5.deeppurple .dt-sc-contact-icon:after { border-color:#532b99; }
-	.dt-sc-contact-info.type5.deeppurple:hover { background-color:#673ab7; }
-	.dt-sc-contact-info.type5.deeppurple:hover .dt-sc-contact-icon span { color:#673ab7; }
+	.dt-sc-contact-info.type5.deeppurple:hover { background-color:#503174; }
+	.dt-sc-contact-info.type5.deeppurple:hover .dt-sc-contact-icon span { color:#503174; }
 
 	.dt-sc-contact-info.type5.green .dt-sc-contact-icon { background:#68b471; }
 	.dt-sc-contact-info.type5.green .dt-sc-contact-icon, .dt-sc-contact-info.type5.green .dt-sc-contact-icon:before, .dt-sc-contact-info.type5.green .dt-sc-contact-icon:after { border-color:#58975f; }
@@ -228,10 +228,10 @@
 	6.0 - Skin Colors
 	--------------------------------------------------------------*/
 	
-	.dt-sc-contact-info.type3 span, /* Kids */ .dt-sc-contact-info.type5:hover .dt-sc-contact-icon span, .dt-sc-contact-info.type2 a:hover { color:#624dd6; }
-	/* .dt-sc-contact-info.type2:hover span, */.dt-sc-contact-info.type3, .dt-sc-contact-info.type4 span:after, .dt-sc-contact-info.type4:before, .dt-sc-contact-info.type5 .dt-sc-contact-icon, .dt-sc-contact-info.type7 span:after, /* Kids */ .dt-sc-contact-info.type2 span, .dt-sc-contact-info.type8 span { background:#624dd6; }
-	.dt-sc-contact-info.type5:hover, .dt-sc-contact-info.type6 { background-color:#624dd6; }
-	/* .dt-sc-contact-info.type2:hover, */.dt-sc-contact-info.type4, .last .dt-sc-contact-info.type4, /* Kids */ .dt-sc-contact-info.type2, .dt-sc-contact-info.type8:hover { border-color:#624dd6; }
+	.dt-sc-contact-info.type3 span, /* Kids */ .dt-sc-contact-info.type5:hover .dt-sc-contact-icon span, .dt-sc-contact-info.type2 a:hover { color:#503174; }
+	/* .dt-sc-contact-info.type2:hover span, */.dt-sc-contact-info.type3, .dt-sc-contact-info.type4 span:after, .dt-sc-contact-info.type4:before, .dt-sc-contact-info.type5 .dt-sc-contact-icon, .dt-sc-contact-info.type7 span:after, /* Kids */ .dt-sc-contact-info.type2 span, .dt-sc-contact-info.type8 span { background:#503174; }
+	.dt-sc-contact-info.type5:hover, .dt-sc-contact-info.type6 { background-color:#503174; }
+	/* .dt-sc-contact-info.type2:hover, */.dt-sc-contact-info.type4, .last .dt-sc-contact-info.type4, /* Kids */ .dt-sc-contact-info.type2, .dt-sc-contact-info.type8:hover { border-color:#503174; }
 
 	/* Dark Color */
 	.dt-sc-contact-info.type5 .dt-sc-contact-icon, .dt-sc-contact-info.type5 .dt-sc-contact-icon:before, .dt-sc-contact-info.type5 .dt-sc-contact-icon:after { border-color:#532b99; }

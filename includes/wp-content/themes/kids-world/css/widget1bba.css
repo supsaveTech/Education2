@@ -715,32 +715,32 @@
 	--------------------------------------------------------------*/
 	 #footer .dt-sc-dark-bg .recent-posts-widget li .entry-meta a:hover, .widget #wp-calendar td a:hover, .dt-sc-dark-bg .widget #wp-calendar td a:hover, .secondary-sidebar .widget ul li > a:hover,  .secondary-sidebar .type15 .widget.widget_recent_reviews ul li .reviewer, .secondary-sidebar .type15 .widget.widget_top_rated_products ul li .amount.amount,#footer .widget #bp-login-widget-form span.bp-login-widget-register-link > a, #footer .dt-sc-dark-bg .widget #bp-login-widget-form span.bp-login-widget-register-link > a,
 	 /** Woo Widget */ .woo-type17 .widget.woocommerce ul li:hover:before,
-	 /* Attorney Addon widget */ .widget.widget_attroney .widgettitle, .widget.widget_attorney_practice .attorney-practice-widget ul li a:hover, .attorney-contact-form-widget input[type="submit"] { color:#624dd6; }
+	 /* Attorney Addon widget */ .widget.widget_attroney .widgettitle, .widget.widget_attorney_practice .attorney-practice-widget ul li a:hover, .attorney-contact-form-widget input[type="submit"] { color:#503174; }
 	 
 	 .tagcloud a:hover, .dt-sc-dark-bg .tagcloud a:hover, .widgettitle:before, .widget.widget_categories ul li > a:hover span, .widget.widget_archive ul li > a:hover span, #footer .dt-sc-dark-bg .widget.widget_categories ul li > a:hover span, #footer .dt-sc-dark-bg .widget.widget_archive ul li > a:hover span, .dt-sc-dark-bg .widget.widget_categories ul li > a:hover span, .secondary-sidebar .type17 .widget-title-wrapper .widget-title-content h2, .widget-title-content h3.widgettitle, .secondary-sidebar .type17 .widget-title-wrapper .widget-title-content:before,
-	 /* Attorney Addon widget */ .widget.widget_attroney .widgettitle:before, .attorney-contact-form-widget input[type="submit"]:hover { background:#624dd6; }
+	 /* Attorney Addon widget */ .widget.widget_attroney .widgettitle:before, .attorney-contact-form-widget input[type="submit"]:hover { background:#503174; }
 	 
-	 .tagcloud a:hover, .dt-sc-dark-bg .tagcloud a:hover { border-color:#624dd6; }
+	 .tagcloud a:hover, .dt-sc-dark-bg .tagcloud a:hover { border-color:#503174; }
 	 
 	 .recent-portfolio-widget ul li a:before { background:rgba(103, 58, 183, 0.9); }
 	 
 	 /* Sidebar Types */
 	.secondary-sidebar .type5 .widgettitle { border-color:rgba(103, 58, 183, 0.5); }
-	.secondary-sidebar .type3 .widgettitle, .secondary-sidebar .type6 .widgettitle, .secondary-sidebar .type13 .widgettitle:before, .secondary-sidebar .type16 .widgettitle { border-color:#624dd6; }
+	.secondary-sidebar .type3 .widgettitle, .secondary-sidebar .type6 .widgettitle, .secondary-sidebar .type13 .widgettitle:before, .secondary-sidebar .type16 .widgettitle { border-color:#503174; }
 	.secondary-sidebar .type12 .widgettitle { background:rgba(103, 58, 183, 0.2); }
 	
-	/* Kids */ .mz-title .mz-title-content h3.widgettitle, .mz-title .mz-title-content:before{background:#624dd6;}
+	/* Kids */ .mz-title .mz-title-content h3.widgettitle, .mz-title .mz-title-content:before{background:#503174;}
 
-	.secondary-sidebar .type14 .widgettitle { border-color:#624dd6; }
+	.secondary-sidebar .type14 .widgettitle { border-color:#503174; }
 		
 	/* Additional Plugin Widgets */
-	.widget.buddypress div.item-options a:hover, .widget.buddypress div.item-options a.selected, #footer .footer-widgets.dt-sc-dark-bg .widget.buddypress div.item-options a.selected, .widget.widget_bp_core_members_widget div.item .item-title a:hover, .widget.buddypress .bp-login-widget-user-links > div.bp-login-widget-user-link a:hover { color:#624dd6; }
-	.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content { background:#624dd6; }
+	.widget.buddypress div.item-options a:hover, .widget.buddypress div.item-options a.selected, #footer .footer-widgets.dt-sc-dark-bg .widget.buddypress div.item-options a.selected, .widget.widget_bp_core_members_widget div.item .item-title a:hover, .widget.buddypress .bp-login-widget-user-links > div.bp-login-widget-user-link a:hover { color:#503174; }
+	.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content { background:#503174; }
 	
-	.widget.tribe-events-countdown-widget .tribe-countdown-text a:hover { color:#624dd6; }
-	.widget.tribe_mini_calendar_widget .tribe-mini-calendar thead.tribe-mini-calendar-nav td { background:#624dd6; }
-	.widget.tribe_mini_calendar_widget .tribe-mini-calendar thead.tribe-mini-calendar-nav td { border-color:#624dd6; }
+	.widget.tribe-events-countdown-widget .tribe-countdown-text a:hover { color:#503174; }
+	.widget.tribe_mini_calendar_widget .tribe-mini-calendar thead.tribe-mini-calendar-nav td { background:#503174; }
+	.widget.tribe_mini_calendar_widget .tribe-mini-calendar thead.tribe-mini-calendar-nav td { border-color:#503174; }
 	
-	.widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-present, .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events.tribe-mini-calendar-today, .tribe-mini-calendar .tribe-events-has-events.tribe-events-present a:hover, .widget.tribe_mini_calendar_widget .tribe-mini-calendar td.tribe-events-has-events.tribe-mini-calendar-today a:hover { background:#624dd6; }
+	.widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-present, .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events.tribe-mini-calendar-today, .tribe-mini-calendar .tribe-events-has-events.tribe-events-present a:hover, .widget.tribe_mini_calendar_widget .tribe-mini-calendar td.tribe-events-has-events.tribe-mini-calendar-today a:hover { background:#503174; }
 	
-	.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-present, .dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events.tribe-mini-calendar-today, .dt-sc-dark-bg .tribe-mini-calendar .tribe-events-has-events.tribe-events-present a:hover, .dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar td.tribe-events-has-events.tribe-mini-calendar-today a:hover { background:#624dd6; }
+	.dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-present, .dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar .tribe-events-has-events.tribe-mini-calendar-today, .dt-sc-dark-bg .tribe-mini-calendar .tribe-events-has-events.tribe-events-present a:hover, .dt-sc-dark-bg .widget.tribe_mini_calendar_widget .tribe-mini-calendar td.tribe-events-has-events.tribe-mini-calendar-today a:hover { background:#503174; }

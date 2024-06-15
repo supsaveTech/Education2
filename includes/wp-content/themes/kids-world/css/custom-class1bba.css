@@ -319,12 +319,12 @@
 	/*--------------------------------------------------------------
 	3.0 - Skin Colors
 	--------------------------------------------------------------*/
-	.dt-sc-text-with-icon span { color:#624dd6; }
+	.dt-sc-text-with-icon span { color:#503174; }
 	
 	.dt-sc-skin-highlight, .dt-sc-skin-highlight.extend-bg-fullwidth-left:after, .dt-sc-skin-highlight.extend-bg-fullwidth-right:after,
 	.diamond-narrow-square-border li:hover:before, 
 	.dt-sc-readmore-plus-icon:hover:before, .dt-sc-readmore-plus-icon:hover:after, 
-	.dt-sc-contact-details-on-map .map-switch-icon, /* Kids */ ul.dt-sc-fancy-list.no-icon-hover-bg li:after { background:#624dd6; }
+	.dt-sc-contact-details-on-map .map-switch-icon, /* Kids */ ul.dt-sc-fancy-list.no-icon-hover-bg li:after { background:#503174; }
 	
 	.dt-sc-text-with-icon.border-bottom, .dt-sc-text-with-icon.border-right, 
-	.diamond-narrow-square-border li:before { border-color:#624dd6; }
+	.diamond-narrow-square-border li:before { border-color:#503174; }

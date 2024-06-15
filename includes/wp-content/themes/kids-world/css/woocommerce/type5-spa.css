@@ -173,9 +173,9 @@
 	--------------------------------------------------------------*/
 
 	/*----*****---- << Default >> --****--*/
-	.woo-type5 ul.products li.product .product-thumb a.add_to_cart_button, .woo-type5 ul.products li.product .product-thumb a.button.product_type_simple, .woo-type5 ul.products li.product .product-thumb a.button.product_type_variable, .woo-type5 ul.products li.product .product-thumb a.added_to_cart.wc-forward, .woo-type5 ul.products li.product .product-thumb a.add_to_wishlist, .woo-type5 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a, .woo-type5 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a, .woo-type5 ul.products li.product .product-details h5:after { background-color:#624dd6; }
+	.woo-type5 ul.products li.product .product-thumb a.add_to_cart_button, .woo-type5 ul.products li.product .product-thumb a.button.product_type_simple, .woo-type5 ul.products li.product .product-thumb a.button.product_type_variable, .woo-type5 ul.products li.product .product-thumb a.added_to_cart.wc-forward, .woo-type5 ul.products li.product .product-thumb a.add_to_wishlist, .woo-type5 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a, .woo-type5 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a, .woo-type5 ul.products li.product .product-details h5:after { background-color:#503174; }
 	
-	.woo-type5 ul.products li.product-category:hover .product-details h5, .woo-type5 ul.products li.product-category:hover .product-details h5 .count { color:#624dd6; }
+	.woo-type5 ul.products li.product-category:hover .product-details h5, .woo-type5 ul.products li.product-category:hover .product-details h5 .count { color:#503174; }
 	
 	/*----*****---- << Dark >> --****--*/
 	.woo-type5 ul.products li.product .product-thumb a.add_to_cart_button:hover, .woo-type5 ul.products li.product .product-thumb a.button.product_type_simple:hover, .woo-type5 ul.products li.product .product-thumb a.button.product_type_variable:hover, .woo-type5 ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover, .woo-type5 ul.products li.product .product-thumb a.add_to_wishlist:hover, .woo-type5 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover, .woo-type5 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover { background-color:#532b99; }

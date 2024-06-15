@@ -50,8 +50,8 @@
 	1.4 - Skin Colors
 	--------------------------------------------------------------*/
 		
-	.dt-sc-event-image-caption .dt-sc-image-content h3 { color:#624dd6; }
+	.dt-sc-event-image-caption .dt-sc-image-content h3 { color:#503174; }
 	
-	.dt-sc-event-image-caption:hover { background:#624dd6; }
+	.dt-sc-event-image-caption:hover { background:#503174; }
 	
-	.dt-sc-event-image-caption:hover .dt-sc-image-content:before { border-left-color:#624dd6; }
+	.dt-sc-event-image-caption:hover .dt-sc-image-content:before { border-left-color:#503174; }

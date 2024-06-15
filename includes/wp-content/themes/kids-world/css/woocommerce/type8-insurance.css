@@ -130,14 +130,14 @@
 	--------------------------------------------------------------*/
 
 	/*----*****---- << Default >> --****--*/	
-	.woo-type8 ul.products li.product .product-details, .woo-type8 ul.products li.product:hover .product-details h5:before { background-color:#624dd6; }
+	.woo-type8 ul.products li.product .product-details, .woo-type8 ul.products li.product:hover .product-details h5:before { background-color:#503174; }
 	
 	.woo-type8.woocommerce ul.products li.product:hover .product-content, .woo-type8.woocommerce ul.products li.product-category:hover .product-thumb .image:after, 
 	.woo-type8 .woocommerce ul.products li.product:hover .product-content, .woo-type8 .woocommerce ul.products li.product-category:hover .product-thumb .image:after { background-color: rgba(103, 58, 183, 0.75); }
 	
 	.woo-type8.woocommerce ul.products li.product:hover .product-content:after, .woo-type8 .woocommerce ul.products li.product:hover .product-content:after { border-color: rgba(103, 58, 183, 0.75) rgba(103, 58, 183,0.75) rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.35); }
 	
-	.woo-type8 ul.products li.product .product-thumb a.add_to_cart_button:hover:before, .woo-type8 ul.products li.product .product-thumb a.button.product_type_simple:hover:before, .woo-type8 ul.products li.product .product-thumb a.button.product_type_variable:hover:before, .woo-type8 ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover:before, .woo-type8 ul.products li.product .product-thumb a.add_to_wishlist:hover:before, .woo-type8 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover:before, .woo-type8 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover:before, .woo-type8 ul.products li.product:hover .product-details h5 a:hover { color:#624dd6; }
+	.woo-type8 ul.products li.product .product-thumb a.add_to_cart_button:hover:before, .woo-type8 ul.products li.product .product-thumb a.button.product_type_simple:hover:before, .woo-type8 ul.products li.product .product-thumb a.button.product_type_variable:hover:before, .woo-type8 ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover:before, .woo-type8 ul.products li.product .product-thumb a.add_to_wishlist:hover:before, .woo-type8 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover:before, .woo-type8 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover:before, .woo-type8 ul.products li.product:hover .product-details h5 a:hover { color:#503174; }
 
 	/*----*****---- << Dark >> --****--*/	
 	.woo-type8 ul.products li.product:hover .product-wrapper { border-color:#532b99; }

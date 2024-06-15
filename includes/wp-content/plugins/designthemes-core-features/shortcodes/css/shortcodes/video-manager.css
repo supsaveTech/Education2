@@ -46,7 +46,7 @@
 	2.0 - Skin Colors
 	--------------------------------------------------------------*/
 	
-	.dt-sc-video-wrapper .video-overlay-inner a, .dt-sc-video-item:hover .dt-sc-vitem-detail, .dt-sc-video-item.active .dt-sc-vitem-detail, .type2 .dt-sc-video-item:hover, .type2 .dt-sc-video-item.active, .nicescroll-rails.dt-sc-skin { background-color:#624dd6; }
+	.dt-sc-video-wrapper .video-overlay-inner a, .dt-sc-video-item:hover .dt-sc-vitem-detail, .dt-sc-video-item.active .dt-sc-vitem-detail, .type2 .dt-sc-video-item:hover, .type2 .dt-sc-video-item.active, .nicescroll-rails.dt-sc-skin { background-color:#503174; }
 	
 	/* Dark Color */
 	.dt-sc-video-wrapper .video-overlay-inner a:hover { background:#532b99; }

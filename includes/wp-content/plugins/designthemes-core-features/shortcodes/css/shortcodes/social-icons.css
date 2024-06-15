@@ -97,11 +97,11 @@
 	/*--------------------------------------------------------------
 	1.4 - Skin Colors
 	--------------------------------------------------------------*/	
-	.dt-sc-sociable.diamond-square-border li:hover a, .dt-sc-sociable.hexagon-border li:hover a, .dt-sc-sociable.hexagon-with-border li:hover a { color:#624dd6; }
+	.dt-sc-sociable.diamond-square-border li:hover a, .dt-sc-sociable.hexagon-border li:hover a, .dt-sc-sociable.hexagon-with-border li:hover a { color:#503174; }
 		
-	.dt-sc-sociable.rounded-border li a:hover, .dt-sc-dark-bg .dt-sc-sociable.rounded-border li a:hover, .dt-sc-dark-bg .dt-sc-sociable.square-border li a:hover, .dt-sc-sociable.diamond-square-border li:hover  { border-color:#624dd6; }
+	.dt-sc-sociable.rounded-border li a:hover, .dt-sc-dark-bg .dt-sc-sociable.rounded-border li a:hover, .dt-sc-dark-bg .dt-sc-sociable.square-border li a:hover, .dt-sc-sociable.diamond-square-border li:hover  { border-color:#503174; }
 	
-	.dt-sc-sociable.hexagon-with-border li { background:#624dd6; }
+	.dt-sc-sociable.hexagon-with-border li { background:#503174; }
 	
 	/* Dark Color */
 	.dt-sc-sociable.hexagon-with-border li, .dt-sc-sociable.hexagon-with-border li:before, .dt-sc-sociable.hexagon-with-border li:after { border-color:#532b99; }

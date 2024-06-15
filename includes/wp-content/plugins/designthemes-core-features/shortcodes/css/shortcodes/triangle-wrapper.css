@@ -63,5 +63,5 @@
 	/*--------------------------------------------------------------
 	1.4 - Skin Colors
 	--------------------------------------------------------------*/
-	.dt-sc-triangle-wrapper.alter:hover .dt-sc-triangle-content:before { border-bottom-color:#624dd6; }
-	.dt-sc-triangle-wrapper:hover .dt-sc-triangle-content:before { border-top-color:#624dd6; }
+	.dt-sc-triangle-wrapper.alter:hover .dt-sc-triangle-content:before { border-bottom-color:#503174; }
+	.dt-sc-triangle-wrapper:hover .dt-sc-triangle-content:before { border-top-color:#503174; }

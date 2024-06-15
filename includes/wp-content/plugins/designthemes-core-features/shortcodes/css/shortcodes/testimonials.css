@@ -197,9 +197,9 @@
 	1.5 - Skin Colors
 	--------------------------------------------------------------*/
 	
-	.dt-sc-testimonial-special-wrapper:after, .dt-sc-testimonial.type4 .dt-sc-testimonial-author cite, .dt-sc-testimonial.type5 .dt-sc-testimonial-author cite, .dt-sc-testimonial.type8 .dt-sc-testimonial-quote blockquote q:before, .dt-sc-testimonial.type8 .dt-sc-testimonial-quote blockquote q:after, .dt-sc-testimonial.type7 .dt-sc-testimonial-quote blockquote cite { color:#624dd6; }
+	.dt-sc-testimonial-special-wrapper:after, .dt-sc-testimonial.type4 .dt-sc-testimonial-author cite, .dt-sc-testimonial.type5 .dt-sc-testimonial-author cite, .dt-sc-testimonial.type8 .dt-sc-testimonial-quote blockquote q:before, .dt-sc-testimonial.type8 .dt-sc-testimonial-quote blockquote q:after, .dt-sc-testimonial.type7 .dt-sc-testimonial-quote blockquote cite { color:#503174; }
 	
-	.dt-sc-testimonial-images li.selected div, .dt-sc-testimonial.type5 .dt-sc-testimonial-quote { border-color:#624dd6; }
+	.dt-sc-testimonial-images li.selected div, .dt-sc-testimonial.type5 .dt-sc-testimonial-quote { border-color:#503174; }
 	
 	/* Dark Color */
 	.skin-highlight .dt-sc-testimonial.type6 .dt-sc-testimonial-author:before, .skin-highlight .dt-sc-testimonial.type6:after { background:#532b99; }

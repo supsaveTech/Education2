@@ -132,11 +132,11 @@
 	--------------------------------------------------------------*/
 
 	/*----*****---- << Default >> --****--*/
-	.woo-type6 ul.products li.product .price { background-color:#624dd6; }
+	.woo-type6 ul.products li.product .price { background-color:#503174; }
 	
 	.woo-type6.woocommerce ul.products li.product:hover .product-content, .woo-type6 .woocommerce ul.products li.product:hover .product-content, 
 	.woo-type6.woocommerce ul.products li.product.instock:hover .on-sale-product .product-content, .woo-type6 .woocommerce ul.products li.product.instock:hover .on-sale-product .product-content, 
 	.woo-type6.woocommerce ul.products li.product.outofstock:hover .out-of-stock-product .product-content, .woo-type6 .woocommerce ul.products li.product.outofstock:hover .out-of-stock-product .product-content,
 	.woo-type6.woocommerce ul.products li.product-category:hover .product-thumb .image:after, .woo-type6 .woocommerce ul.products li.product-category:hover .product-thumb .image:after { background-color: rgba(103, 58, 183, 0.75); }
 	
-	.woo-type6 ul.products li.product .product-thumb a.add_to_cart_button:hover:before, .woo-type6 ul.products li.product .product-thumb a.button.product_type_simple:hover:before, .woo-type6 ul.products li.product .product-thumb a.button.product_type_variable:hover:before, .woo-type6 ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover:before, .woo-type6 ul.products li.product .product-thumb a.add_to_wishlist:hover:before, .woo-type6 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover:before, .woo-type6 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover:before, .woo-type6 ul.products li.product-category:hover .product-details h5, .woo-type6 ul.products li.product-category:hover .product-details h5 .count { color:#624dd6; }
+	.woo-type6 ul.products li.product .product-thumb a.add_to_cart_button:hover:before, .woo-type6 ul.products li.product .product-thumb a.button.product_type_simple:hover:before, .woo-type6 ul.products li.product .product-thumb a.button.product_type_variable:hover:before, .woo-type6 ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover:before, .woo-type6 ul.products li.product .product-thumb a.add_to_wishlist:hover:before, .woo-type6 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover:before, .woo-type6 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover:before, .woo-type6 ul.products li.product-category:hover .product-details h5, .woo-type6 ul.products li.product-category:hover .product-details h5 .count { color:#503174; }

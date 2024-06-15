@@ -100,13 +100,13 @@
 	/*--------------------------------------------------------------
 	4.0 - Skin Colors
 	--------------------------------------------------------------*/
-	.dt-sc-hexagon-title h2 span { color:#624dd6; }
+	.dt-sc-hexagon-title h2 span { color:#503174; }
 	
 	.dt-sc-hexagon-image span:before { background:rgba(103, 58, 183, 0.9); }
 	
-	.dt-sc-hexagons li .dt-sc-hexagon-overlay, .dt-sc-content-with-hexagon-shape, .dt-sc-single-hexagon .dt-sc-single-hexagon-overlay { background:#624dd6; }
+	.dt-sc-hexagons li .dt-sc-hexagon-overlay, .dt-sc-content-with-hexagon-shape, .dt-sc-single-hexagon .dt-sc-single-hexagon-overlay { background:#503174; }
 	
-	.dt-sc-hexagons li:hover, .dt-sc-hexagons li:hover:before, .dt-sc-hexagons li:hover:after, .dt-sc-hexagons li, .dt-sc-hexagons li:before, .dt-sc-hexagons li .dt-sc-hexagon-overlay:before, .dt-sc-hexagons li:after, .dt-sc-hexagons li .dt-sc-hexagon-overlay:after, .dt-sc-single-hexagon:hover, .dt-sc-single-hexagon:hover:before, .dt-sc-single-hexagon:hover:after, .dt-sc-single-hexagon, .dt-sc-single-hexagon:before, .dt-sc-single-hexagon .dt-sc-single-hexagon-overlay:before, .dt-sc-single-hexagon:after, .dt-sc-single-hexagon .dt-sc-single-hexagon-overlay:after { border-color:#624dd6; }
+	.dt-sc-hexagons li:hover, .dt-sc-hexagons li:hover:before, .dt-sc-hexagons li:hover:after, .dt-sc-hexagons li, .dt-sc-hexagons li:before, .dt-sc-hexagons li .dt-sc-hexagon-overlay:before, .dt-sc-hexagons li:after, .dt-sc-hexagons li .dt-sc-hexagon-overlay:after, .dt-sc-single-hexagon:hover, .dt-sc-single-hexagon:hover:before, .dt-sc-single-hexagon:hover:after, .dt-sc-single-hexagon, .dt-sc-single-hexagon:before, .dt-sc-single-hexagon .dt-sc-single-hexagon-overlay:before, .dt-sc-single-hexagon:after, .dt-sc-single-hexagon .dt-sc-single-hexagon-overlay:after { border-color:#503174; }
 	
-	.dt-sc-content-with-hexagon-shape:after { border-top-color:#624dd6; }
-	.dt-sc-content-with-hexagon-shape:before { border-bottom-color:#624dd6; }
+	.dt-sc-content-with-hexagon-shape:after { border-top-color:#503174; }
+	.dt-sc-content-with-hexagon-shape:before { border-bottom-color:#503174; }

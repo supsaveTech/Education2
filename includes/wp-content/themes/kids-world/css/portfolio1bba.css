@@ -2022,7 +2022,7 @@
 .dt-portfolio-single-slider-wrapper #bx-pager a.active:hover:before,
 .dt-portfolio-single-slider-wrapper #bx-pager a,
 .project-details li a:hover {
-    color: #624dd6;
+    color: #503174;
 }
 
 .dt-sc-portfolio-sorting a.active-sort,
@@ -2039,13 +2039,13 @@
 .portfolio.type7 .image-overlay-details .categories a:before,
 .portfolio.type7 .image-overlay .links a:hover:before,
 .dt-sc-infinite-portfolio-load-more {
-    background: #624dd6;
+    background: #503174;
 }
 
 .dt-sc-portfolio-sorting a.active-sort,
 .dt-sc-portfolio-sorting a:hover,
 .portfolio.type7 .image-overlay .links a:before {
-    border-color: #624dd6;
+    border-color: #503174;
 }
 
 .portfolio .image-overlay {

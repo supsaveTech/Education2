@@ -837,24 +837,24 @@
 }
 
 .dt-sc-image-caption .dt-sc-image-wrapper .icon-wrapper:before {
-    border-bottom-color: #624dd6;
+    border-bottom-color: #503174;
 }
 
 .dt-sc-image-caption.type3 .dt-sc-image-content h3,
 .dt-sc-image-caption.type8:hover .dt-sc-image-content h3 a:hover,
 .dt-sc-image-with-caption h3 a {
-    color: #624dd6;
+    color: #503174;
 }
 
 .dt-sc-image-caption.type4:hover .dt-sc-button,
 .dt-sc-image-caption.type8 .dt-sc-image-content:before {
-    background: #624dd6;
+    background: #503174;
 }
 
 .dt-sc-image-caption.type2 .dt-sc-image-content,
 .dt-sc-image-caption.type4,
 .dt-sc-image-caption.type4:hover .dt-sc-button {
-    border-color: #624dd6;
+    border-color: #503174;
 }
 
 

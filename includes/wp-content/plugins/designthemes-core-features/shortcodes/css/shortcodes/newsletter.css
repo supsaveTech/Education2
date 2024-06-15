@@ -461,10 +461,10 @@
 	4.0 - Skin Color
 	--------------------------------------------------------------*/
 	/* Kids */
-	.dt-sc-newsletter-section.type6 .dt-sc-subscribe-frm input[type="submit"]{color:#624dd6;}
-	.dt-sc-newsletter-section.type1 h2:before, .dt-sc-newsletter-section.type1 h2:after { background:#624dd6; }
+	.dt-sc-newsletter-section.type6 .dt-sc-subscribe-frm input[type="submit"]{color:#503174;}
+	.dt-sc-newsletter-section.type1 h2:before, .dt-sc-newsletter-section.type1 h2:after { background:#503174; }
 	
-	.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="text"] { border-color:#624dd6; }
+	.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="text"] { border-color:#503174; }
 	
 	
 	/* Dark Color */

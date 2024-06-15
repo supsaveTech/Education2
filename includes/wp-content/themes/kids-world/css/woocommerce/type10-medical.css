@@ -178,11 +178,11 @@
 	--------------------------------------------------------------*/
 
 	/*----*****---- << Default >> --****--*/
-	.woo-type10 ul.products li.product .product-thumb a.add_to_cart_button, .woo-type10 ul.products li.product .product-thumb a.button.product_type_simple, .woo-type10 ul.products li.product .product-thumb a.button.product_type_variable, .woo-type10 ul.products li.product .product-thumb a.added_to_cart.wc-forward, .woo-type10 ul.products li.product .product-thumb a.add_to_wishlist, .woo-type10 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a, .woo-type10 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a, .woo-type10 ul.products li.product:hover .product-details { background-color:#624dd6; }
+	.woo-type10 ul.products li.product .product-thumb a.add_to_cart_button, .woo-type10 ul.products li.product .product-thumb a.button.product_type_simple, .woo-type10 ul.products li.product .product-thumb a.button.product_type_variable, .woo-type10 ul.products li.product .product-thumb a.added_to_cart.wc-forward, .woo-type10 ul.products li.product .product-thumb a.add_to_wishlist, .woo-type10 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a, .woo-type10 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a, .woo-type10 ul.products li.product:hover .product-details { background-color:#503174; }
 	
-	.woo-type10 ul.products li.product:hover .product-wrapper { border-color:#624dd6; }
+	.woo-type10 ul.products li.product:hover .product-wrapper { border-color:#503174; }
 	
-	.woo-type10 ul.products li.product:hover .product-details:before, .woo-type10 ul.products li.product:hover .product-details:after { border-bottom-color:#624dd6; }
+	.woo-type10 ul.products li.product:hover .product-details:before, .woo-type10 ul.products li.product:hover .product-details:after { border-bottom-color:#503174; }
 	
 	/*----*****---- << Dark >> --****--*/
 	.woo-type10 ul.products li.product .product-thumb a.add_to_cart_button:hover, .woo-type10 ul.products li.product .product-thumb a.button.product_type_simple:hover, .woo-type10 ul.products li.product .product-thumb a.button.product_type_variable:hover, .woo-type10 ul.products li.product .product-thumb a.added_to_cart.wc-forward:hover, .woo-type10 ul.products li.product .product-thumb a.add_to_wishlist:hover, .woo-type10 ul.products li.product .product-thumb .yith-wcwl-wishlistaddedbrowse a:hover, .woo-type10 ul.products li.product .product-thumb .yith-wcwl-wishlistexistsbrowse a:hover { background-color:#532b99; }

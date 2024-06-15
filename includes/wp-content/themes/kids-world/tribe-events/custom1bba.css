@@ -185,18 +185,18 @@ Default Color
 		
 /******** ====== Skins ========********/
 
- .dt-sc-event.type1 .dt-sc-event-thumb p, .dt-sc-event.type1 .dt-sc-event-meta:before, /* Kids */ .dt-sc-event.type5 .dt-sc-events-read-more { background:#624dd6; }
+ .dt-sc-event.type1 .dt-sc-event-thumb p, .dt-sc-event.type1 .dt-sc-event-meta:before, /* Kids */ .dt-sc-event.type5 .dt-sc-events-read-more { background:#503174; }
  
-.dt-sc-event.type4 .dt-sc-event-date:after { border-bottom-color:#624dd6; }
+.dt-sc-event.type4 .dt-sc-event-date:after { border-bottom-color:#503174; }
 
 .dt-sc-event.type1 .dt-sc-event-meta p span, .dt-sc-event.type1:hover h2.entry-title a, 
 .dt-sc-event.type2 .dt-sc-event-date span, .dt-sc-event.type2:hover h2.entry-title a, 
 .dt-sc-event.type3:hover h2.entry-title a,
 .dt-sc-event.type4 .dt-sc-event-date span, .dt-sc-event.type4 h2.entry-title a, .dt-sc-event.type4 .dt-sc-event-date i
-.dt-sc-event.type5 .dt-sc-event-date span, .dt-sc-event.type5 .dt-sc-event-date i, .dt-sc-event.type5 .dt-sc-event-cost, /*.dt-sc-event.type5:hover h2.entry-title a*/ .dt-sc-event.type5 .dt-sc-event-thumb .dt-sc-event-date, .dt-sc-event.type5:hover .events-cost-booking .dt-sc-event-cost .event-booking-price, .dt-sc-event.type5:hover h2.entry-title a{ color:#624dd6; }
+.dt-sc-event.type5 .dt-sc-event-date span, .dt-sc-event.type5 .dt-sc-event-date i, .dt-sc-event.type5 .dt-sc-event-cost, /*.dt-sc-event.type5:hover h2.entry-title a*/ .dt-sc-event.type5 .dt-sc-event-thumb .dt-sc-event-date, .dt-sc-event.type5:hover .events-cost-booking .dt-sc-event-cost .event-booking-price, .dt-sc-event.type5:hover h2.entry-title a{ color:#503174; }
 
 .dt-sc-event.type1 .dt-sc-event-thumb p, .dt-sc-event.type1 .dt-sc-event-meta:before, 
 .dt-sc-event.type2:hover .dt-sc-event-meta, 
-.dt-sc-event.type3 .dt-sc-event-date, .dt-sc-event.type3:hover .dt-sc-event-date, .dt-sc-event.type3:hover .dt-sc-event-meta { background:#624dd6; }
+.dt-sc-event.type3 .dt-sc-event-date, .dt-sc-event.type3:hover .dt-sc-event-date, .dt-sc-event.type3:hover .dt-sc-event-meta { background:#503174; }
 
-.dt-sc-event.type4 .dt-sc-event-date:after { border-bottom-color:#624dd6; }
+.dt-sc-event.type4 .dt-sc-event-date:after { border-bottom-color:#503174; }
