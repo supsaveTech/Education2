@@ -636,7 +636,21 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 			<div class="wpb_wrapper"></div> 
 		</div>
 	</div>
-	<div class="carousel-one-half wpb_column vc_column_container vc_col-sm-8" style="margin-right: -20px;"> 
+	<style>
+		.carousel-one-half {
+			margin-right: -30px !important;
+		}  
+		
+		
+		@media only screen and (max-width: 767px){
+			.carousel-one-half { padding: 0px; margin-right: 0px !important;  }
+			.dt-sc-carousel-wrapper dt-sc-icon-box {padding: 10px;}
+		}
+  
+	</style>
+
+	<div class="carousel-one-half wpb_column vc_column_container vc_col-sm-8 vc_col-xs-12" 
+	> 
 		<div class="vc_column-inner ">
 			<div class="wpb_wrapper">
 				<div class="ult-animation ult-animate-viewport ult-no-mobile" data-animate="bounceIn" data-animation-delay="0.8" data-animation-duration="1" data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="">
