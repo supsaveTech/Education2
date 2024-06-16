@@ -3075,7 +3075,7 @@ ul.side-nav>li>ul>li>ul>li>a:hover {
     z-index: 999;
     opacity: 0.8;
     text-indent: -9999px;
-    background-size: 80px auto;
+    /* background-size: 50px auto;  */
 }
 
 #toTop:hover {
