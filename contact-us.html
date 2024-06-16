@@ -778,7 +778,7 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 /* ]]> */
 </script>
 <script type="text/javascript" src="./includes/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.minc50d.js?ver=7.8.2" id="woocommerce-js"></script>
-<!-- <script type="text/javascript" src="./includes/wp-content/themes/kids-world/framework/js/jquery.ui.totop.minef10.js?ver=6.5.3" id="jquery-ui-totop-js"></script> -->
+<script type="text/javascript" src="./includes/wp-content/themes/kids-world/framework/js/jquery.ui.totop.minef10.js?ver=6.5.3" id="jquery-ui-totop-js"></script>
 <script type="text/javascript" src="./includes/wp-content/themes/kids-world/framework/js/jquery.caroufredselef10.js?ver=6.5.3" id="jquery-caroufredsel-js"></script>
 <script type="text/javascript" src="./includes/wp-content/themes/kids-world/framework/js/jquery.debouncedresizeef10.js?ver=6.5.3" id="jquery-debouncedresize-js"></script>
 <script type="text/javascript" src="./includes/wp-content/themes/kids-world/framework/js/jquery.prettyphotoef10.js?ver=6.5.3" id="jquery-prettyphoto-js"></script>
@@ -798,68 +798,9 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 <script type="text/javascript" src="./includes/wp-content/themes/kids-world/framework/js/customef10.js?ver=6.5.3" id="kidsworld-jqcustom-js"></script>
 <script type="text/javascript" src="./includes/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min9c09.js?ver=6.11.0" id="wpb_composer_front_js-js"></script>
 <script type="text/javascript" src="./includes/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min9c09.js?ver=6.11.0" id="vc_waypoints-js"></script>
-<script id="rs-initialisation-scripts">
-		var	tpj = jQuery;
 
-		var	revapi2;
 
-		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
-		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
-		RS_MODULES.modules["revslider21"] = {once: RS_MODULES.modules["revslider21"]!==undefined ? RS_MODULES.modules["revslider21"].once : undefined, init:function() {
-			window.revapi2 = window.revapi2===undefined || window.revapi2===null || window.revapi2.length===0  ? document.getElementById("rev_slider_2_1") : window.revapi2;
-			if(window.revapi2 === null || window.revapi2 === undefined || window.revapi2.length==0) { window.revapi2initTry = window.revapi2initTry ===undefined ? 0 : window.revapi2initTry+1; if (window.revapi2initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider21"].init()}); return;}
-			window.revapi2 = jQuery(window.revapi2);
-			if(window.revapi2.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_2_1"); return;}
-			revapi2.revolutionInit({
-					revapi:"revapi2",
-					sliderLayout:"fullwidth",
-					visibilityLevels:"1240,1024,778,480",
-					gridwidth:"1170,1024,778,480",
-					gridheight:"840,768,960,720",
-					lazyType:"smart",
-					spinner:"spinner0",
-					perspectiveType:"local",
-					responsiveLevels:"1240,1024,778,480",
-					progressBar:{disableProgressBar:false},  
-					navigation: {
-						mouseScrollNavigation:false,
-						onHoverStop:true, 
-						touch: {
-							touchenabled:true
-						},
-						arrows: {
-							enable:false,
-							tmp:"<div class=\"tp-title-wrap\">	<span class=\"tp-arr-titleholder\">{{title}}</span> </div>",
-							style:"ares",
-							hide_onmobile:true,
-							hide_under:480,
-							left: {
 
-							},
-							right: { 
-
-							}
-						}
-					},
-					parallax: {
-						levels:[2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,55],
-						type:"mouse"
-					},
-					viewPort: {
-						global:true,
-						globalDist:"-200px",
-						enable:false,
-						visible_area:"20%"
-					},
-					fallbacks: {
-						allowHTML5AutoPlayOnAndroid:true
-					},
-			});
-			
-		}} // End of RevInitScript
-
-		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
-	</script>
 </body>
 
 </html>
